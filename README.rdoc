@@ -5,8 +5,26 @@ Purpose:
   1. SmartGroups aims to make the lives of teachers easier by automating tasks that otherwise take 
      more time than they should to complete. This is done by...
        A. Easily importing a class roster with assignment grades via CSV
-       B. Making it easy for a teacher to create groups of students by Group # or Student # and decide
-          if she wants to group them randomly or current student average grade
+       B. Making it easy for a teacher to create groups of students by number of groups or num of students per group
+          and decide if the groups should be randomly generated or have grade average balanced groups etc. 
        C. Providing easily created charts that show student assignment scores compared to the class average
   
-  2. This project also served as a learning opportunity on the complexity of seemingly simple algorythms
+  2. This project also served as a learning opportunity on the complexity of seemingly simple algorithms
+  
+  
+  Notes:
+    Smartgroups, later turned GroupSmart was created as a group in less than a week. I required agile work flow with
+    with each member being accountable for their pivotal tracker tasks. 
+    
+    The languages and tools include but are not limit to:
+      Ruby
+      Rails
+      JavaScript
+      JQuery
+      Ajax
+      PostgreSQl
+      Rspec
+      CSV parsing
+      Heroku
+      Zurb playground
+  
